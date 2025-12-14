@@ -1,0 +1,38 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Logs
+*.log
+
+# OS файлы
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+spring-boot-*.jar
+
+# Generated files
+/generated-sources/
+/generated-test-sources/
+
+/out/
+build/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+
+# Intellij
+*.class
